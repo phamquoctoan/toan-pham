@@ -5,7 +5,7 @@
 
 Submitted by: **Toan**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 URL: **http://toan-pham.herokuapp.com/**
 
@@ -29,7 +29,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- [x] Add gem Devesi to user log in/ log out
+- [x] Add gem will_paginate
 
 ## Video Walkthrough 
 
